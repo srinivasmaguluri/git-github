@@ -1,0 +1,2 @@
+-- This is a SQL Script
+SELECT GETDATE() AS CURR_DATE_TIME
